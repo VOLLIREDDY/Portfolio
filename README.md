@@ -7,7 +7,7 @@ Cybersecurity professional with expertise in SIEM, incident response, and techni
 - **[Incident Response Playbook: Ransomware Attack](incident-response.md)**
 - **[Technical Blog: Zero-Day Vulnerabilities](zero-day.md)**
 - **[Security Audit Report: Web Application Analysis](security-audit.md)**
-- **[Threat Hunting Case: Splunk and MITRE ATT&CK Framework](Threat Hunting Case.md)**
+- **[Threat Hunting Case: Splunk and MITRE ATT&CK Framework](ThreatHunting.md)**
 
 ## 🔹 Contact Me
 📧 Email: jkvreddy2000@gmail.com  
