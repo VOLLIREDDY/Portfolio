@@ -10,4 +10,4 @@ Cybersecurity professional with expertise in SIEM, incident response, and techni
 
 ## 🔹 Contact Me
 📧 Email: jkvreddy2000@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jyothika-vollireddy-3271531a4/)  
